@@ -1,2 +1,2 @@
-# estudos
+# Estudos Gerais de programação
  Repositório para estudos gerais, tipo exercícios para consultas futuras, projetinhos etc...
